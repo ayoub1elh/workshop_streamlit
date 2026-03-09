@@ -92,14 +92,6 @@ Try these phrases:
 - **French Support** - Limited (scores may be 0)
 - **Session History** - Resets when you refresh the page
 
-## 🎓 Learning Resources
-
-See the `md/` folder for detailed documentation:
-- **QUICKSTART.md** - 5-min setup guide
-- **ARCHITECTURE.md** - Code structure explanation
-- **SETUP.md** - Troubleshooting & detailed installation
-- **COMPARISON.md** - Old vs modern architecture
-
 ## 🐛 Troubleshooting
 
 ### Command not found: streamlit
